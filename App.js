@@ -10,7 +10,7 @@ export default function App() {
   } else {
     appId = 'id310633997';
   }
-  const xApiKey = "MDNmNmZkNDEtNmNkMi00NzY3LThjOWEtYWYxMGFjZWQ0ZjI2"; // Your project key
+  const xApiKey = "ZWY0ZDhjYjgtYThmMC00NTg5LWI0NmUtMjM5OWZkNjkzMzQ5"; // Your project key
   const appInfo = {
     appId, // Your app id in playstore or app store.
     appName: 'Wallpaper app', // Your app name

@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app-upgrade-test",
-    "slug": "app-upgrade-test",
+    "name": "app-upgrade-expo-demo-app",
+    "slug": "app-upgrade-expo-demo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,14 +18,14 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.shweshi.app-upgrade-test"
+      "bundleIdentifier": "com.appupgrade.appupgradeexpodemoapp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.shweshi.appupgradetest"
+      "package": "com.appupgrade.appupgradeexpodemoapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
