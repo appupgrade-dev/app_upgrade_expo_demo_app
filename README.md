@@ -1,13 +1,13 @@
 # App Upgrade: Expo Demo App
 
-[App Upgrade: Expo Demo App](https://github.com/appupgrade-dev/app_upgrade_expo-demo-app) is a sample expo app integrated with [App Upgrade React-Native SDK](https://www.npmjs.com/package/app-upgrade-react-native-sdk) to demonstrate how Force upgrade works in expo app with [App Upgrade](https://appupgrade.dev). 
+[App Upgrade: Expo Demo App](https://github.com/appupgrade-dev/app_upgrade_expo_demo_app) is a sample expo app integrated with [App Upgrade React-Native SDK](https://www.npmjs.com/package/app-upgrade-react-native-sdk) to demonstrate how Force upgrade works in expo app with [App Upgrade](https://appupgrade.dev). 
 
 
 ## Installation
 
 To get started, clone the repo:
 
-`$ git clone https://github.com/appupgrade-dev/app_upgrade_expo-demo-app`
+`$ git clone https://github.com/appupgrade-dev/app_upgrade_expo_demo_app`
 
 ## Setup
 
