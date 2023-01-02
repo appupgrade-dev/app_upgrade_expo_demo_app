@@ -15,13 +15,13 @@ To get started, clone the repo:
 
    `$ cd app_upgrade_expo-demo-app`
 
-1. Then install the dependencies:
+2. Then install the dependencies:
 
    `$ npm install`
 
-1. Open the directory in your code editor.
+3. Open the directory in your code editor.
 
-1. Open the `app_upgrade_expo-demo-app/App.js` file, and enter required values for the variables:
+4. Open the `app_upgrade_expo-demo-app/App.js` file, and enter required values for the variables:
 
    | Key                   | Value Description |
    | -----------------------|-------------|
@@ -44,7 +44,7 @@ To get started, clone the repo:
     };
    ```
 
-1. Save `App.js` file.
+5. Save `App.js` file.
 
 ## Run the app:
    Start the expo
