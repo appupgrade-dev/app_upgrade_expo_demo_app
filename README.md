@@ -11,9 +11,9 @@ To get started, clone the repo:
 
 ## Setup
 
-1. Once cloned, navigate to the `app_upgrade_expo-demo-app` directory.
+1. Once cloned, navigate to the `app_upgrade_expo_demo_app` directory.
 
-   `$ cd app_upgrade_expo-demo-app`
+   `$ cd app_upgrade_expo_demo_app`
 
 2. Then install the dependencies:
 
@@ -21,7 +21,7 @@ To get started, clone the repo:
 
 3. Open the directory in your code editor.
 
-4. Open the `app_upgrade_expo-demo-app/App.js` file, and enter required values for the variables:
+4. Open the `app_upgrade_expo_demo_app/App.js` file, and enter required values for the variables:
 
    | Key                   | Value Description |
    | -----------------------|-------------|
