@@ -17,6 +17,7 @@ export default function App() {
     appVersion: '1.0.0', // Your app version
     platform: 'android', // App Platform, android or ios
     environment: 'production', // App Environment, production, development
+    appLanguage: 'es', // App Language, en, es etc
   };
 
   // Alert config is optional
