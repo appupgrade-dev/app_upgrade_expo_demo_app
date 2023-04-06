@@ -8,7 +8,7 @@ export default function App() {
   if (Platform.OS === 'android') {
     appId = 'com.android.chrome';
   } else {
-    appId = 'id310633997';
+    appId = '310633997';
   }
   const xApiKey = "ZWY0ZDhjYjgtYThmMC00NTg5LWI0NmUtMjM5OWZkNjkzMzQ5"; // Your project key
   const appInfo = {
