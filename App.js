@@ -18,6 +18,10 @@ export default function App() {
     platform: 'android', // App Platform, android or ios
     environment: 'production', // App Environment, production, development
     appLanguage: 'es', // App Language, en, es etc
+    // customAttributes: {
+    //   os: 12,
+    //   country: 'IN',
+    // },
   };
 
   // Alert config is optional
